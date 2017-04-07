@@ -20,18 +20,21 @@
 
         <TextView
             android:id="@+id/each_contact_name"
-            android:layout_width="342dp"
+            android:layout_width="match_parent"
             android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="casual"
             android:text="TextView"
-            android:layout_marginTop="5dp" />
+            android:textStyle="bold" />
 
         <TextView
 
             android:id="@+id/each_contact_number"
             android:layout_width="match_parent"
             android:layout_height="20dp"
-            android:text="TextView"
-            android:layout_marginBottom="5dp" />
+            android:layout_marginBottom="5dp"
+            android:fontFamily="casual"
+            android:text="TextView" />
 
     </LinearLayout>
 </LinearLayout>

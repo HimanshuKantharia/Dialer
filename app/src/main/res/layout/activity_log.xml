@@ -15,5 +15,6 @@
         android:layout_gravity="bottom"
         android:layout_marginBottom="15dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp" />
+        android:layout_marginRight="10dp"
+        android:headerDividersEnabled="true" />
 </LinearLayout>
