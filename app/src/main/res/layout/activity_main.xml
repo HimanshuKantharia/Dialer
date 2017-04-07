@@ -34,7 +34,7 @@
             android:lineSpacingExtra="8sp"
             android:paddingLeft="15dp"
             android:paddingTop="5dp"
-            android:text="111118881"
+
             android:textColor="@color/colorAccent"
 
             android:textSize="30dp"
